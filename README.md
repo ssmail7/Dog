@@ -1,2 +1,4 @@
 # Dog
-Project 13 from my Programming Concepts class during the Spring 2016 semester.
+
+This program creates an array of dog objects by using a file scanner
+and then outputs the attributes of each dog to the screen.
